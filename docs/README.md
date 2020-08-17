@@ -1,4 +1,6 @@
+Hey, this is a class project simulating a computer network, without using any libraries/frameworks. Built a hashtable with seprate chaining, and a graph data structure.
 
+Below are instructions from the professor.
 <img src="animated.gif" width="400px" />
 
 ## Quick Links
